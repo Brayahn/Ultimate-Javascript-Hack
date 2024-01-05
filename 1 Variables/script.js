@@ -1,8 +1,9 @@
 var variableName = "welcome to Variables";
+console.log(variableName);
 
 //
 //
-//the preffered way
+//the preffered way for ES6
 let variablename2 = "";
 
 //re-assigning
@@ -15,4 +16,8 @@ console.log(variablename2);
 //cannot be changed throught the program
 const variable3 = "Variable Constant";
 
-console.log(variableName, variable3);
+//
+//
+//the only special characters allowed for variable names
+let $num = "1";
+let _num2 = 3;
