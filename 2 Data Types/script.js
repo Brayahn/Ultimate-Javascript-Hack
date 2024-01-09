@@ -62,30 +62,25 @@ undefined
 let x;
 console.log(x);
 
-
-
-//objects 
-
+//objects
 /*
 used to group variables
 */
 
-const person ={
-    persona: 'James',
-    age: 56
-}
+const person = {
+  persona: "James",
+  age: 56,
+};
 
-console.log(person.persona + ' is ' + person.age + ' years old' );
-
+console.log(person.persona + " is " + person.age + " years old");
 
 //Array
 
-const arr = [4,4,5,5,3];
+const arr = [4, 4, 5, 5, 3];
 
-console.log(typeof arr)
+console.log(typeof arr);
 
-
-//date 
+//date
 const date = new Date();
 
-console.log(date)
+console.log(date);
