@@ -47,3 +47,45 @@ if (isCool) {
 
 //true  - yes, correct, 1
 //false - no, incorrect, 0
+
+/*
+Null
+
+*/
+let age = null;
+console.log(typeof age);
+console.log(age);
+
+/*
+undefined
+*/
+let x;
+console.log(x);
+
+
+
+//objects 
+
+/*
+used to group variables
+*/
+
+const person ={
+    persona: 'James',
+    age: 56
+}
+
+console.log(person.persona + ' is ' + person.age + ' years old' );
+
+
+//Array
+
+const arr = [4,4,5,5,3];
+
+console.log(typeof arr)
+
+
+//date 
+const date = new Date();
+
+console.log(date)
