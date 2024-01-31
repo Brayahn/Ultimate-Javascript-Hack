@@ -41,21 +41,32 @@ console.log(result);
 const c = 10;
 const d = 20;
 
-//less than or equal 
+//less than or equal
 console.log(c <= d);
 
 //greater than
 console.log(d > c);
 
-//Equality operator
+//Loose Equality operator  >> only compares values
 console.log(d == c);
 
-//Not Equal 
-console.log(d !== c);
+//Not Equal
+console.log(d != c);
 
+//Strict Equality  >> compares values and data types >> recommended
+console.log(a === b);
 
-
-//Strict Equality 
-console.log(a===b);
 //Strict Inequality
-console.log(a!===b);
+console.log(a !== b);
+
+/****
+ *
+ * Logical OPerators
+ *
+ *
+ */
+//AND (&&)
+console.log();
+//OR
+
+//NOT
