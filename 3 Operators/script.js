@@ -73,3 +73,17 @@ console.log(false | true);
 
 //NOT (!)
 console.log(!false);
+
+/**
+ *
+ * Assignment Operators  (the equals sign)
+ *
+ */
+let mynumber = 5;
+
+//mynumber +=5; // mynumber = mynumbber + 5;
+//mynumber -=5; // mynumber = mynumbber - 5
+//mynumber *=5; // mynumber = mynumbber * 5;
+mynumber /= 5; // mynumber = mynumbber / 5;
+
+console.log(mynumber);
