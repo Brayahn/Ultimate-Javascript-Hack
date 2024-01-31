@@ -65,8 +65,11 @@ console.log(a !== b);
  *
  *
  */
-//AND (&&)
-console.log();
-//OR
+//AND (&&)  >> All operands need to be true >> True
+console.log(true && false);
 
-//NOT
+//OR (||) >> at least one operand is true
+console.log(false | true);
+
+//NOT (!)
+console.log(!false);
