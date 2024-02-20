@@ -72,7 +72,7 @@ console.log(true && false);
 console.log(false | true);
 
 //NOT (!)
-console.log(!false);
+//console.log(!false);
 
 /**
  *
