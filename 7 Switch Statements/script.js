@@ -1,6 +1,6 @@
 /*
 *
-can be used interchangeably with if statements but more preferred to the later
+can be used interchangeably with if statements but more preferred to the later for complex cases
 */
 let super_hero = "Wonder Woman";
 
