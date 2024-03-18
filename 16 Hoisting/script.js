@@ -24,5 +24,4 @@ myString = "test";
 
 //To avoid this pitfall, we would make sure to declare and initialise the variable before we use it:
 
-
 //Another great thing, is that constants and function expressions save us from doing that. Function expressions (the more modern way of writing functions, with const keyword), are not hoisted.
