@@ -61,7 +61,7 @@ console.log(a !== b);
 
 /****
  *
- * Logical OPerators
+ * Logical Operators
  *
  *
  */
