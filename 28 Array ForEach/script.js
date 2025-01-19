@@ -42,3 +42,11 @@ numbers.forEach((number) => {
 });
 
 console.log(sum);
+
+
+//another exaamplee 
+const fruits = ["apple", "banana", "orange"];
+
+fruits.forEach((fruit, i) => {
+  console.log(fruit, i);
+});
