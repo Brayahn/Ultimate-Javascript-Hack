@@ -11,4 +11,3 @@ console.log(isGreaterthan4);
  */
 const isGreaterthan0 = numbers.every((number) => number > 0);
 console.log(isGreaterthan0);
-
