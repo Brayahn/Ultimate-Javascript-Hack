@@ -28,3 +28,15 @@ const totalsum = randomnumbers.reduce((acc, val) => {
 }, 0);
 
 console.log(totalsum);
+
+/***
+ * 
+ * 
+ The reduce method takes 2 parameters: accumulator and currentValue.
+
+Accumulator is something that we initialise, then the callback function is executed many times, in each time the currentValue will be set to one element of the array, so in each call the current value is added to the accumulator.
+
+The reduce method takes two arguments, the first one is the callback function that runs for the each element in the array and the second one is the initial value of the accumulator.
+
+The result of the reducer method is always going to be a single value. In this example, that value is the total all item prices.
+ */
