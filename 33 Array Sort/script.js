@@ -15,4 +15,3 @@ const numbers = [2, 22, 23, 24, 6, 7, 8, 99, 566];
 // to sort in descending order >>>> b - a
 numbers.sort((a, b) => a - b);
 console.log(numbers);
-
